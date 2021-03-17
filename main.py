@@ -54,7 +54,8 @@ class TelaSleep(QMainWindow):
         arquivo.close()                             #
         self.ui.label_3.setText('')                 #
         self.ui.label_5.setText('')                 #
-        return os.system('shutdown -a')             #
+        return os.system('shutdown -a')
+                                                    #
                           ###########################
 
     ############################################################### ESTÁ FUNÇÃO CONTEM ALGUNS PARAMENTROS, PARA FAZER COISAS E RETORNAR RESULTADOS ESPECIFICOS. 'verificaestado' VERIFICA
