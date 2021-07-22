@@ -3,7 +3,7 @@
 Aplicação para o desligamento automático e programável do Windows.
 
 ![ Alt text](https://github.com/samirmaciel/SleepTime-Python/blob/master/print1.png) [](print1.png)
-![ Alt text](https://github.com/samirmaciel/SleepTime-Python/blob/master/print2.png.png) [](print2.png)
+![ Alt text](https://github.com/samirmaciel/SleepTime-Python/blob/master/print2.png) [](print2.png)
 ![ Alt text](https://github.com/samirmaciel/SleepTime-Python/blob/master/print3.png) [](print3.png)
 
 
