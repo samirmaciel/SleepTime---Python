@@ -2,6 +2,10 @@
 
 Aplicação para o desligamento automático e programável do Windows.
 
+![ Alt text](https://github.com/samirmaciel/SleepTime-Python/print1.png) [](print1.png)
+![ Alt text](https://github.com/samirmaciel/SleepTime-Python/print2.png) [](print2.png)
+![ Alt text](https://github.com/samirmaciel/SleepTime-Python/print3.png) [](print3.png)
+
 
 * Selecione a quantas horas e minutos para o desligamento do **sistema**
 * Caso desligue o sistema manulamente antes do tempo determinado, o aplicativo registra essa informação e fica salva em um **txt**.
